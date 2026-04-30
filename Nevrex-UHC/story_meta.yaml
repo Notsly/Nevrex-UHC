@@ -1,0 +1,107 @@
+"i": 38521
+"d": 1606033609278
+"u": 1606056077951
+"c": "105483801110817926588"
+"n": "Trial Nevrex"
+"r": "Tertar, open voice log."
+"h": 3
+"t":
+- "alternate"
+"a": "BunnyTriesToAnimate YT"
+"w": "https://m.youtube.com/channel/UCDBvhrv39XiwyWqoG30FQsQ"
+"o": "assets://mspfa/Trial Nevrex/img/thumbnail.gif"
+"q": ""
+"x": ""
+"b": 1
+"m": "==>"
+"editors":
+- "i": "105483801110817926588"
+  "d": 1583697188999
+  "n": "BunnyTriesToAnimate YT"
+  "v": 1
+  "h": 0
+  "w": "https://bunnytriestoanimateyt.carrd.co/"
+  "r": "READ MY STORIES!"
+  "o": "https://file.garden/ZFsHQyhvAk-Bo1r7/pfp2.gif"
+  "g":
+    "2302": 166
+    "14278": 174
+    "16414": 566
+    "27317": 1764
+    "28014": 7
+    "29685": 31
+    "32237": 157
+    "32242": 166
+    "33803": 167
+    "34417": 158
+    "35033": 148
+    "35540": 2
+    "35954": 63
+    "36001": 405
+    "36037": 112
+    "36345": 211
+    "37663": 73
+    "38521": 22
+    "38679": 22
+    "39383": 149
+    "39676": 1
+    "39899": 29
+    "39901": 17
+    "40152": 17
+    "42790": 314
+    "43147": 21
+    "44334": 42
+    "45005": 44
+    "45460": 99
+  "a": 3
+  "s":
+    "t": 0
+    "p": 1
+    "k":
+      "p": 37
+      "n": 39
+      "s": 32
+    "s": 43
+    "a3": false
+    "a4": false
+  "u": 1758736118458
+"whole_css": |
+  body {
+  	background-color: #07060f;
+  	color: #f1f1e9;
+  }
+  header .mspfalogo {
+  	background-color: #212431;
+  	border-color: #07060f;
+  }
+  #main {
+  	background-color: #171826;
+  }
+  #slide {
+  	background-color: #212431;
+  }
+  #info > span > .spoiler.open {
+  	background-color: #171826;
+  }
+  footer .mspfalogo {
+  	background-color: #07060f;
+  	border-color: #07060f;
+  }
+  nav {
+  	background-color: #07060f;
+  }
+  a {
+  	color: #543dff;
+  }
+  a:active {
+  	color: #75c3ff;
+  }
+  a:visited {
+  	color: #ee4fe0;
+  }
+  nav a {
+  	color: #7866ff !important;
+  }
+  body:hover {
+      cursor: url(https://file.garden/ZFsHQyhvAk-Bo1r7/TRIALNEV1/TEST1.png), auto;
+  }
